@@ -45,7 +45,7 @@ A sleek and interactive sushi ordering mobile application built using **Flutter*
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vedant1780/sushi_restraunt_app.git
+   git clone https://github.com/vedant1780/shushi_restraunt_app.git
    cd sushi_app
    flutter pub get
    flutter run
